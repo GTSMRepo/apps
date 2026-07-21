@@ -18,7 +18,7 @@
       "name": "YouTube OLED",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "",
+      "developerName": "Example Developer",
       "subtitle": "Youtube no ads",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/qmrz95n.png",
@@ -27,12 +27,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://download2260.mediafire.com/ddu7qu1mu1kg-V1KYt8vIS2BatEeg8L8T7o71Ym1MdW-yPx-3kusWh4vMJjN3q3C4mRmw3foLb3jnHhV-uAIE71iSd166foEjvHF74zi85Vz3MjJK4MxgianHcroKJa-Y-X4qMLmz_Zyw0ra3R3XqA0D3dkF-HvatdOi6YFr6ZRN/uk4ghrboanivavp/YouTubeOLED+21.02.3+Premium.ipa",
-          "size": 127700000,
           "version": "21.02.3",
-          "buildVersion": null,
-          "date": "2026-07-21T01:59:00-07:00",
+          "date": "2028-01-01T00:20:00-08:00",
           "localizedDescription": null,
+          "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-21T08%3A33%3A55Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-21T07%3A33%3A37Z&ske=2026-07-21T08%3A33%3A55Z&sks=b&skv=2018-11-09&sig=4ySANnO2GxrPH6vabySozkszaBXyBk9FV77oz7gTpis%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDYyMzk3NSwibmJmIjoxNzg0NjIwMzc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ucYW6jO_Bo-wyO-xBYFfkmVq5WtIpzWjS-hqiZrq8Lk&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
+          "size": 127700000,
+          "buildVersion": null,
           "minOSVersion": "16.0"
         }
       ],
@@ -65,12 +65,12 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "2.729.838",
-          "date": "2026-07-21T00:00:00-07:00",
+          "version": "Newest",
+          "date": "2028-01-01T00:20:00-08:00",
           "localizedDescription": "The undetected Roblox Delta Executor",
           "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.729.838.ipa",
           "size": 138700000,
-          "buildVersion": "2.729.838",
+          "buildVersion": "Latest",
           "minOSVersion": "14.0"
         }
       ],
@@ -105,7 +105,7 @@
       "versions": [
         {
           "version": "1.55",
-          "date": "2026-07-21T23:20:00-07:00",
+          "date": "2028-01-01T00:20:00-08:00",
           "localizedDescription": "",
           "downloadURL": "https://download2261.mediafire.com/7rh7y85jcsrgaABrA7eiU0nzX8Bf0-t_ceNWkjsxYbB9dtqwPtuGnvsr_w9EiHcEIzi4aQ6gxYRA97zBBS-V7M_yYuvOZUl1yQq8TWHIIO23miqaQ8G-h1vgYmTUWcofuvtIYRT24FxFXPDUVav3bldXPVO1d1K14WyiYi8-e-5z/t7eanym4um9p5x2/Cuphead.ipa",
           "size": 2229700000,
@@ -133,9 +133,9 @@
       "versions": [
         {
           "version": "2.208",
-          "date": "2026-07-21T23:20:00-07:00",
+          "date": "2028-01-01T00:20:00-08:00",
           "localizedDescription": "The tuff jumping game full",
-          "downloadURL": "https://download844.mediafire.com/dghafxct4nygPWw0wYbq37LHZy7J0Gbru1fCSmntwxkUrcMo5xvgxoLf_ugEmaUHoKrSE6AVO30waNzjfBZdKxd2qMC4kkkL4ZuC9HCQZi4fzMZ1qgP1AdXmN4OtKENFRkpntXFPvLHghTnCsizUYM-CT5M3MbtIyHVHr8iQc3Vy/64bren3p67fzr6i/Geometry+Dash+2.208+latest.ipa",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Geometry.Dash.2.208.latest.ipa",
           "size": 145300000,
           "buildVersion": "2.208",
           "minOSVersion": "12.0"
@@ -161,9 +161,9 @@
       "versions": [
         {
           "version": "9.1.0",
-          "date": "2026-07-22T06:20:00-07:00",
+          "date": "2027-12-31T20:20:00-08:00",
           "localizedDescription": "tuff eeveespotify that unlocks premium and has working widget and everything works",
-          "downloadURL": "https://download946.mediafire.com/3a13uvdsonigVT4NI00scApl5b4d26cf6LguHauwXabT2PcM93I-MOkC0zpCumuclm_4EiYdcVCo4cTAfjhCm5kSFUAAWQPYlQc3IJRu26k2_M_8xYIPgW65k-F-0Cqp9XpQvOxycnGnmC5ZW2RFHSaEpz_SCkYPEuGJzayA3Oec/doa7153jw6y6xyt/EeveeSpotify+v9.1.0+Patched+%28blatant+Widget+fix%29.ipa",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/EeveeSpotify.v9.1.0.Patched.blatant.Widget.fix.ipa",
           "size": 94100000,
           "buildVersion": "",
           "minOSVersion": "16.0"
