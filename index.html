@@ -337,9 +337,6 @@ function formatDate(iso){
   return d.toLocaleDateString(undefined,{year:'2-digit',month:'short',day:'2-digit'});
 }
 
-function esignURL(sourceURL){
-  return `esign://source/${sourceURL}`;
-}
 function ksignURL(sourceURL){
   return `ksign://source/${sourceURL}`;
 }
@@ -364,9 +361,7 @@ function render(data){
   // add-to-store buttons
   const addRow = document.getElementById('addRow');
   addRow.innerHTML = `
-    <a class="btn btn-primary" href="${esignURL(sourceURL)}">Add to eSign</a>
     <a class="btn" href="${ksignURL(sourceURL)}">Add to KSign</a>
-    <a class="btn" href="${featherURL(sourceURL)}">Add to Feather</a>
     <a class="btn" href="${sourceURL}" id="copySourceBtn">Copy source URL <small>⌘C</small></a>
   `;
   document.getElementById('copySourceBtn').addEventListener('click', (e)=>{
