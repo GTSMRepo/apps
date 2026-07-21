@@ -1,0 +1,154 @@
+{
+  "name": "GTSM Repo",
+  "subtitle": "Goated Titty Sucking Method Repo",
+  "description": "iPA’s of apps I want to save and that are useful to me and wanna share. I will try to update most if updates come out for them. (I use a paid certificate)",
+  "iconURL": "https://i.imgur.com/6hyeC83.png",
+  "website": "https://guns.lol/lu1be",
+  "patreonURL": "https://patreon.com/GTSM",
+  "tintColor": "#41c5db",
+  "featuredApps": [
+    "com.spotify.client",
+    "com.spanishfreddy.cupheadios",
+    "com.robtop.geometryjump",
+    "com.gloop.deltamobile"
+  ],
+  "headerURL": "https://i.imgur.com/vA2i2Hc.png",
+  "apps": [
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "marketplaceID": "",
+      "developerName": "DeltaExploits.gg",
+      "subtitle": "Roblox Executor",
+      "localizedDescription": "The tuff undetectable Roblox executor.\nYou have to do a daily key every 12 hours in order to use the executor for free. Otherwise it would be a paid one. So do your key!",
+      "iconURL": "https://i.imgur.com/fqMxWWI.png",
+      "tintColor": "#345cfc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.729.838.ipa",
+          "size": 138700000,
+          "version": "2.729.838",
+          "buildVersion": "2.729.838",
+          "date": "2026-07-21T00:00:00-07:00",
+          "localizedDescription": "The undetected Roblox Delta Executor",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSLocationWhenInUseUsageDescription": "Roblox needs access to your location to improve your user experience",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Cuphead iOS",
+      "bundleIdentifier": "com.spanishfreddy.cupheadios",
+      "marketplaceID": "",
+      "developerName": "SpanishFreddy",
+      "subtitle": "3gb of RAM needed",
+      "localizedDescription": "cuphead port made by spanishfreddy which is kind of lost media I think because the google drive one is having failures for most people and I managed to save a good working copy! You need a device with more than 3gb of RAM to run it. ALSO (NO DLC)",
+      "iconURL": "https://i.imgur.com/9rc9HkG.png",
+      "tintColor": "#fccc13",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.55",
+          "date": "2026-07-20T23:20:00-07:00",
+          "localizedDescription": "",
+          "downloadURL": "https://www.mediafire.com/file/t7eanym4um9p5x2/Cuphead.ipa/file?dkey=xlw61i8lwnf&r=1903",
+          "size": 2229700000,
+          "buildVersion": "1.55",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "marketplaceID": "",
+      "developerName": "RobTop Games AB",
+      "subtitle": "Full game",
+      "localizedDescription": "Geometry dash version 2.208 lol",
+      "iconURL": "https://i.imgur.com/SqswG13.png",
+      "tintColor": "#fcda09",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.208",
+          "date": "2026-07-20T23:20:00-07:00",
+          "localizedDescription": "The tuff jumping game full",
+          "downloadURL": "https://www.mediafire.com/file/64bren3p67fzr6i/Geometry_Dash_2.208_latest.ipa/file",
+          "size": 145300000,
+          "buildVersion": "2.208",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "whoeevee",
+      "subtitle": "Everything works",
+      "localizedDescription": "This is an awesome app tweak that unlocks premium and has a working widget as well ",
+      "iconURL": "https://i.imgur.com/hiYkP7A.png",
+      "tintColor": "#1cd464",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.1.0",
+          "date": "2026-07-20T23:20:00-07:00",
+          "localizedDescription": "tuff eeveespotify that unlocks premium and has working widget and everything works",
+          "downloadURL": "https://www.mediafire.com/file/doa7153jw6y6xyt/EeveeSpotify_v9.1.0_Patched_%2528blatant_Widget_fix%2529.ipa/file?dkey=reim82o1pde&r=1361",
+          "size": 94100000,
+          "buildVersion": "",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Goated Titty Sucking Method Repo",
+      "identifier": "news_91m5rpkxr5",
+      "caption": "I will try my best to keep these apps up to date!!!",
+      "date": "2026-07-20T16:58",
+      "tintColor": "#41c5db",
+      "imageURL": "https://i.imgur.com/Gs6ZijB.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.gloop.deltamobile"
+    }
+  ]
+}
