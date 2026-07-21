@@ -27,12 +27,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.729.838.ipa",
-          "size": 138700000,
           "version": "2.729.838",
-          "buildVersion": "2.729.838",
           "date": "2026-07-21T00:00:00-07:00",
           "localizedDescription": "The undetected Roblox Delta Executor",
+          "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.729.838.ipa",
+          "size": 138700000,
+          "buildVersion": "2.729.838",
           "minOSVersion": "14.0"
         }
       ],
@@ -67,9 +67,9 @@
       "versions": [
         {
           "version": "1.55",
-          "date": "2026-07-20T23:20:00-07:00",
+          "date": "2026-07-21T23:20:00-07:00",
           "localizedDescription": "",
-          "downloadURL": "https://www.mediafire.com/file/t7eanym4um9p5x2/Cuphead.ipa/file?dkey=xlw61i8lwnf&r=1903",
+          "downloadURL": "https://download2261.mediafire.com/7rh7y85jcsrgaABrA7eiU0nzX8Bf0-t_ceNWkjsxYbB9dtqwPtuGnvsr_w9EiHcEIzi4aQ6gxYRA97zBBS-V7M_yYuvOZUl1yQq8TWHIIO23miqaQ8G-h1vgYmTUWcofuvtIYRT24FxFXPDUVav3bldXPVO1d1K14WyiYi8-e-5z/t7eanym4um9p5x2/Cuphead.ipa",
           "size": 2229700000,
           "buildVersion": "1.55",
           "minOSVersion": "18.0"
@@ -95,9 +95,9 @@
       "versions": [
         {
           "version": "2.208",
-          "date": "2026-07-20T23:20:00-07:00",
+          "date": "2026-07-21T23:20:00-07:00",
           "localizedDescription": "The tuff jumping game full",
-          "downloadURL": "https://www.mediafire.com/file/64bren3p67fzr6i/Geometry_Dash_2.208_latest.ipa/file",
+          "downloadURL": "https://download844.mediafire.com/dghafxct4nygPWw0wYbq37LHZy7J0Gbru1fCSmntwxkUrcMo5xvgxoLf_ugEmaUHoKrSE6AVO30waNzjfBZdKxd2qMC4kkkL4ZuC9HCQZi4fzMZ1qgP1AdXmN4OtKENFRkpntXFPvLHghTnCsizUYM-CT5M3MbtIyHVHr8iQc3Vy/64bren3p67fzr6i/Geometry+Dash+2.208+latest.ipa",
           "size": 145300000,
           "buildVersion": "2.208",
           "minOSVersion": "12.0"
@@ -123,9 +123,9 @@
       "versions": [
         {
           "version": "9.1.0",
-          "date": "2026-07-20T23:20:00-07:00",
+          "date": "2026-07-22T06:20:00-07:00",
           "localizedDescription": "tuff eeveespotify that unlocks premium and has working widget and everything works",
-          "downloadURL": "https://www.mediafire.com/file/doa7153jw6y6xyt/EeveeSpotify_v9.1.0_Patched_%2528blatant_Widget_fix%2529.ipa/file?dkey=reim82o1pde&r=1361",
+          "downloadURL": "https://download946.mediafire.com/3a13uvdsonigVT4NI00scApl5b4d26cf6LguHauwXabT2PcM93I-MOkC0zpCumuclm_4EiYdcVCo4cTAfjhCm5kSFUAAWQPYlQc3IJRu26k2_M_8xYIPgW65k-F-0Cqp9XpQvOxycnGnmC5ZW2RFHSaEpz_SCkYPEuGJzayA3Oec/doa7153jw6y6xyt/EeveeSpotify+v9.1.0+Patched+%28blatant+Widget+fix%29.ipa",
           "size": 94100000,
           "buildVersion": "",
           "minOSVersion": "16.0"
