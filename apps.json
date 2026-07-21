@@ -1,15 +1,16 @@
 {
   "name": "GTSM Repo",
   "subtitle": "Goated Titty Sucking Method Repo",
-  "description": "iPA’s of apps I want to save and that are useful to me and wanna share. I will try to update most if updates come out for them. (I use a paid certificate)",
+  "description": "Repo for good working iPA apps, games and tools. All apps here are not mine but have been tested by me and I would like to share them with whoever wants to download them.",
   "iconURL": "https://i.imgur.com/6hyeC83.png",
   "website": "https://guns.lol/lu1be",
   "patreonURL": "https://patreon.com/GTSM",
   "tintColor": "#41c5db",
   "featuredApps": [
-    "com.spotify.client",
     "com.spanishfreddy.cupheadios",
     "com.robtop.geometryjump",
+    "com.spotify.client",
+    "com.google.ios.youtube",
     "com.gloop.deltamobile"
   ],
   "headerURL": "https://i.imgur.com/vA2i2Hc.png",
@@ -18,13 +19,18 @@
       "name": "YouTube OLED",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "Youtube no ads",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "",
+      "subtitle": "Youtube Premium Unlocked",
+      "localizedDescription": "Youtube OLED is a Youtube tweak with a lot of features\nYou can find those features once you’re signed in and go to your settings",
       "iconURL": "https://i.imgur.com/qmrz95n.png",
       "tintColor": "#f70404",
       "category": "entertainment",
-      "screenshots": [],
+      "screenshots": [
+        "https://i.imgur.com/CZzM6mv.png",
+        "https://i.imgur.com/P8rCg1B.png",
+        "https://i.imgur.com/Z7bMTxa.png",
+        "https://i.imgur.com/zRLc4WM.png"
+      ],
       "versions": [
         {
           "version": "21.02.3",
@@ -57,12 +63,25 @@
       "bundleIdentifier": "com.gloop.deltamobile",
       "marketplaceID": "",
       "developerName": "DeltaExploits.gg",
-      "subtitle": "Roblox Executor",
-      "localizedDescription": "The tuff undetectable Roblox executor.\nYou have to do a daily key every 12 hours in order to use the executor for free. Otherwise it would be a paid one. So do your key!",
+      "subtitle": "iOS Roblox Executor",
+      "localizedDescription": "You have to do a daily key every 12 hours\nThe download link is straight from the official delta website DeltaExploits.gg\n\nPro tip: use izen.lol to get your key faster",
       "iconURL": "https://i.imgur.com/fqMxWWI.png",
       "tintColor": "#345cfc",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        "https://i.imgur.com/teAqZJs.png",
+        "https://i.imgur.com/e2R5P1L.png",
+        {
+          "imageURL": "https://i.imgur.com/HsQ3lQN.png",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/M5u48UE.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
       "versions": [
         {
           "version": "Newest",
@@ -96,12 +115,33 @@
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "marketplaceID": "",
       "developerName": "SpanishFreddy",
-      "subtitle": "3gb of RAM needed",
-      "localizedDescription": "cuphead port made by spanishfreddy which is kind of lost media I think because the google drive one is having failures for most people and I managed to save a good working copy! You need a device with more than 3gb of RAM to run it. ALSO (NO DLC)",
+      "subtitle": "3GB Ram • Read desc if your signer allows you",
+      "localizedDescription": "BE PATIENT WHEN SIGNING AND INSTALLING. THIS APP IS 2.23GB THEREFORE IT TAKES A WHILE TO SIGN IT AND MORE WHEN INSTALLING IT.\naverage Installation time - 4mins\nALSO 3GB Ram doest not mean 3GB of Storage",
       "iconURL": "https://i.imgur.com/9rc9HkG.png",
       "tintColor": "#fccc13",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/dvBfYFv.jpeg",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/c1KeHlW.jpeg",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/w8c9wUt.jpeg",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/UTPSJnC.jpeg",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
       "versions": [
         {
           "version": "1.55",
@@ -124,12 +164,33 @@
       "bundleIdentifier": "com.robtop.geometryjump",
       "marketplaceID": "",
       "developerName": "RobTop Games AB",
-      "subtitle": "Full game",
-      "localizedDescription": "Geometry dash version 2.208 lol",
+      "subtitle": "Full game ",
+      "localizedDescription": "Geometry dash version 2.208 full game unlocked + online levels work",
       "iconURL": "https://i.imgur.com/SqswG13.png",
       "tintColor": "#fcda09",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/65drQ2P.png",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/wD4R2cn.png",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/BI8dP6Q.png",
+          "width": 2556,
+          "height": 1179
+        },
+        {
+          "imageURL": "https://i.imgur.com/hM2bHm9.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
       "versions": [
         {
           "version": "2.208",
@@ -152,12 +213,17 @@
       "bundleIdentifier": "com.spotify.client",
       "marketplaceID": "",
       "developerName": "whoeevee",
-      "subtitle": "Everything works",
-      "localizedDescription": "This is an awesome app tweak that unlocks premium and has a working widget as well ",
+      "subtitle": "Premium unlocked",
+      "localizedDescription": "This is an awesome app tweak that unlocks premium and has a working widget as well.\n\nClick on your profile on the top left > Settings and Privacy > EeveeSpotify > Patching > Turn on “Overwrite Configuration” then close and reopen the app.",
       "iconURL": "https://i.imgur.com/hiYkP7A.png",
       "tintColor": "#1cd464",
       "category": "entertainment",
-      "screenshots": [],
+      "screenshots": [
+        "https://i.imgur.com/aB1cLlx.png",
+        "https://i.imgur.com/MuvvvJ3.png",
+        "https://i.imgur.com/qr7rLFc.png",
+        "https://i.imgur.com/paafHje.jpeg"
+      ],
       "versions": [
         {
           "version": "9.1.0",
@@ -178,15 +244,15 @@
   ],
   "news": [
     {
-      "title": "Goated Titty Sucking Method Repo",
+      "title": "More about me at",
       "identifier": "news_91m5rpkxr5",
-      "caption": "I will try my best to keep these apps up to date!!!",
+      "caption": "guns.lol/lu1be",
       "date": "2026-07-20T16:58",
-      "tintColor": "#41c5db",
-      "imageURL": "https://i.imgur.com/Gs6ZijB.png",
+      "tintColor": "#000000",
+      "imageURL": "https://i.imgur.com/UJPWXWm.png",
       "notify": true,
       "url": "https://example.com/new_feature_details",
-      "appID": "com.gloop.deltamobile"
+      "appID": null
     }
   ]
 }
