@@ -11,16 +11,55 @@
     "com.robtop.geometryjump",
     "com.spotify.client",
     "com.google.ios.youtube",
-    "com.gloop.deltamobile"
+    "com.gloop.deltamobile",
+    "com.google.ios.youtubeAPEX"
   ],
   "headerURL": "https://i.imgur.com/vA2i2Hc.png",
   "apps": [
     {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtubeAPEX",
+      "marketplaceID": "",
+      "developerName": "APEX",
+      "subtitle": "BEST Youtube Tweak",
+      "localizedDescription": "This is by far the best youtube app tweak for iOS. This one lets you play videos past 1080 unlike Youtube OLED. To access different settings to tinker inside the app go to the “APEX” logo on the bottom right then click the arrow up button next to “Shorts” to open a tweak menu. Once you’ve made your tweaks make sure to click apply. (The app will close to apply the tweaks).",
+      "iconURL": "https://i.imgur.com/yRuLse1.png",
+      "tintColor": "#fc0434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/5kz9oe.ipa",
+          "size": 131900000,
+          "version": "21.30.5",
+          "buildVersion": null,
+          "date": "2026-08-04T15:17:00-07:00",
+          "localizedDescription": "Full credit to the original developer on github➡️ https://github.com/lowiqentity/APEX/releases",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "YouTube OLED",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "",
-      "subtitle": "Youtube Premium Unlocked",
+      "developerName": "DAN",
+      "subtitle": "Good Youtube Tweak",
       "localizedDescription": "Youtube OLED is a Youtube tweak with a lot of features\nYou can find those features once you’re signed in and go to your settings",
       "iconURL": "https://i.imgur.com/qmrz95n.png",
       "tintColor": "#f70404",
@@ -244,13 +283,13 @@
   ],
   "news": [
     {
-      "title": "More about me at",
+      "title": "More about me at guns.lol/lu1be",
       "identifier": "news_91m5rpkxr5",
       "caption": "guns.lol/lu1be",
       "date": "2026-07-20T16:58",
       "tintColor": "#000000",
       "imageURL": "https://i.imgur.com/UJPWXWm.png",
-      "notify": true,
+      "notify": false,
       "url": "https://example.com/new_feature_details",
       "appID": null
     }
