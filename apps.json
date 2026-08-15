@@ -6,15 +6,65 @@
   "website": "https://guns.lol/lu1be",
   "patreonURL": "https://patreon.com/GTSM",
   "tintColor": "#41c5db",
-  "featuredApps": [
-    "com.spanishfreddy.cupheadios",
-    "com.robtop.geometryjump",
-    "com.spotify.client",
-    "com.gloop.deltamobile",
-    "com.google.ios.youtube"
-  ],
+  "featuredApps": [],
   "headerURL": "https://i.imgur.com/vA2i2Hc.png",
   "apps": [
+    {
+      "name": "Bad Poster",
+      "bundleIdentifier": "com.nxtcoreee3.Bad-Poster",
+      "marketplaceID": "",
+      "developerName": "nxtcoreee3",
+      "subtitle": "iOS 27.0 Live Wallpapers",
+      "localizedDescription": "Custom PosterBoard wallpapers for iOS 17+ · bad_query support for iOS 26–27.0b4\n\nBad Poster keeps the original Pocket Poster workflow and adds a Bad Poster identity, persistent wallpaper Favorites, and a multi-provider Explore experience.",
+      "iconURL": "https://github.com/nxtcoreee3/Bad-Poster/blob/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/badposter%20tinted.png?raw=true",
+      "tintColor": "#41c5db",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/nxtcoreee3/Bad-Poster/releases/download/v3.3.1/Bad-Poster.ipa",
+          "size": 13200000,
+          "version": "3.3 (1)",
+          "buildVersion": "",
+          "date": "2026-08-12T23:20:00-07:00",
+          "localizedDescription": null,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Mond",
+      "bundleIdentifier": "com.roooot",
+      "marketplaceID": "",
+      "developerName": "rooootdev",
+      "subtitle": "MobileGestalt on iOS 27.0 beta 1 - 4!",
+      "localizedDescription": "Some of the tweaks have the potential to brick your device!\nUse at your own risk.\n\nVersion Support:\n\niOS Version\niOS ≤ 26.x_unsupported\n/iOS 27.0 DEV beta 1–4_supported\n/iOS 27.0 DEV beta 5_unsupported\n/iOS 27.0 PUBLIC beta 1–2_supported\n/iOS 27.0 PUBLIC beta 3_unsupported",
+      "iconURL": "https://raw.githubusercontent.com/rooootdev/mond/refs/heads/main/mond.png",
+      "tintColor": "#41c5db",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
+          "size": 3200000,
+          "version": "1.0",
+          "buildVersion": "",
+          "date": "2026-08-14T23:20:00-07:00",
+          "localizedDescription": null,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
