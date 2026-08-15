@@ -10,15 +10,14 @@
     "com.spanishfreddy.cupheadios",
     "com.robtop.geometryjump",
     "com.spotify.client",
-    "com.google.ios.youtube",
     "com.gloop.deltamobile",
-    "com.google.ios.youtubeAPEX"
+    "com.google.ios.youtube"
   ],
   "headerURL": "https://i.imgur.com/vA2i2Hc.png",
   "apps": [
     {
       "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtubeAPEX",
+      "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
       "developerName": "APEX",
       "subtitle": "BEST Youtube Tweak",
@@ -29,12 +28,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://files.catbox.moe/5kz9oe.ipa",
-          "size": 131900000,
-          "version": "21.30.5",
-          "buildVersion": null,
-          "date": "2026-08-04T15:17:00-07:00",
+          "version": "21.32.4",
+          "date": "2026-08-10T20:20:00-07:00",
           "localizedDescription": "Full credit to the original developer on github➡️ https://github.com/lowiqentity/APEX/releases",
+          "downloadURL": "https://files.catbox.moe/hkk4xy.ipa",
+          "size": 131900000,
+          "buildVersion": null,
           "minOSVersion": "16.0"
         }
       ],
@@ -50,49 +49,6 @@
           "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "YouTube OLED",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
-      "developerName": "DAN",
-      "subtitle": "Good Youtube Tweak",
-      "localizedDescription": "Youtube OLED is a Youtube tweak with a lot of features\nYou can find those features once you’re signed in and go to your settings",
-      "iconURL": "https://i.imgur.com/qmrz95n.png",
-      "tintColor": "#f70404",
-      "category": "entertainment",
-      "screenshots": [
-        "https://i.imgur.com/CZzM6mv.png",
-        "https://i.imgur.com/P8rCg1B.png",
-        "https://i.imgur.com/Z7bMTxa.png",
-        "https://i.imgur.com/zRLc4WM.png"
-      ],
-      "versions": [
-        {
-          "version": "21.02.3",
-          "date": "2028-01-01T00:20:00-08:00",
-          "localizedDescription": null,
-          "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-21T08%3A33%3A55Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-21T07%3A33%3A37Z&ske=2026-07-21T08%3A33%3A55Z&sks=b&skv=2018-11-09&sig=4ySANnO2GxrPH6vabySozkszaBXyBk9FV77oz7gTpis%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDYyMzk3NSwibmJmIjoxNzg0NjIwMzc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ucYW6jO_Bo-wyO-xBYFfkmVq5WtIpzWjS-hqiZrq8Lk&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-          "size": 127700000,
-          "buildVersion": null,
-          "minOSVersion": "16.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
       },
       "patreon": {}
@@ -123,10 +79,10 @@
       ],
       "versions": [
         {
-          "version": "Newest",
-          "date": "2028-01-01T00:20:00-08:00",
+          "version": "2.733.988",
+          "date": "2026-08-09T02:20:00-07:00",
           "localizedDescription": "The undetected Roblox Delta Executor",
-          "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.729.838.ipa",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Delta-2.733.988.ipa",
           "size": 138700000,
           "buildVersion": "Latest",
           "minOSVersion": "14.0"
@@ -154,7 +110,7 @@
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "marketplaceID": "",
       "developerName": "SpanishFreddy",
-      "subtitle": "3GB Ram • Read desc if your signer allows you",
+      "subtitle": "guns.lol/lu1be for help",
       "localizedDescription": "BE PATIENT WHEN SIGNING AND INSTALLING. THIS APP IS 2.23GB THEREFORE IT TAKES A WHILE TO SIGN IT AND MORE WHEN INSTALLING IT.\naverage Installation time - 4mins\nALSO 3GB Ram doest not mean 3GB of Storage",
       "iconURL": "https://i.imgur.com/9rc9HkG.png",
       "tintColor": "#fccc13",
@@ -184,9 +140,9 @@
       "versions": [
         {
           "version": "1.55",
-          "date": "2028-01-01T00:20:00-08:00",
+          "date": "2026-04-20T23:20:00-07:00",
           "localizedDescription": "",
-          "downloadURL": "https://download2271.mediafire.com/khtdok00relgQsZxMtabeLrVXLLW38YDb6n1L67xYMVLwa-mSOm6YwC0DD4LhiIXtK4EStwBCDGf8LIFHV6TLvM2N6e6t-cYpITBrChgpg8uLDZS3m-oyXulXJ4btYqB-zGrKazCnxjSzfFYjLDNX9mWGTw8b-qxIov0MMKuNOZUl6Q/t7eanym4um9p5x2/Cuphead.ipa",
+          "downloadURL": "https://download2271.mediafire.com/3gyu0xrxzd4g6T__up6dxFYtqs0w1aTn-Qp2stqakasdV8xYpSz5WXSyCu77188bKCMh__i8X0LK7FmPDnPui5XY678pi8WjK7gviNSANzhjk3Y8JJqlglC-NWxYtaN7HYdiXPmamvGPaV6v1kBdYxXy5zA5rkiyV3m8aADgTGyR7jY/t7eanym4um9p5x2/Cuphead.ipa",
           "size": 2229700000,
           "buildVersion": "1.55",
           "minOSVersion": "18.0"
@@ -233,7 +189,7 @@
       "versions": [
         {
           "version": "2.208",
-          "date": "2028-01-01T00:20:00-08:00",
+          "date": "2026-01-31T00:20:00-08:00",
           "localizedDescription": "The tuff jumping game full",
           "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Geometry.Dash.2.208.latest.ipa",
           "size": 145300000,
@@ -266,7 +222,7 @@
       "versions": [
         {
           "version": "9.1.0",
-          "date": "2027-12-31T20:20:00-08:00",
+          "date": "2025-12-27T00:20:00-08:00",
           "localizedDescription": "tuff eeveespotify that unlocks premium and has working widget and everything works",
           "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/EeveeSpotify.v9.1.0.Patched.blatant.Widget.fix.ipa",
           "size": 94100000,
