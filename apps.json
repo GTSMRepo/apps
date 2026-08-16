@@ -290,17 +290,6 @@
   ],
   "news": [
     {
-      "title": "Add to Feather",
-      "identifier": "gtsm-add-to-feather",
-      "caption": "Tap here to add the GTSM Repo directly to Feather.",
-      "date": "2026-08-15T00:00:00-07:00",
-      "tintColor": "#41c5db",
-      "imageURL": "https://i.imgur.com/6hyeC83.png",
-      "notify": false,
-      "url": "feather://source/https://gtsmrepo.github.io/apps/apps.json",
-      "appID": null
-    },
-    {
       "title": "More about me at guns.lol/lu1be",
       "identifier": "news_91m5rpkxr5",
       "caption": "guns.lol/lu1be",
