@@ -1,6 +1,5 @@
 {
   "name": "GTSM Repo",
-  "identifier": "com.gtsmrepo.apps",
   "subtitle": "Goated Titty Sucking Method Repo",
   "description": "Repo for good working iPA apps, games and tools. All apps here are not mine but have been tested by me and I would like to share them with whoever wants to download them.",
   "iconURL": "https://i.imgur.com/6hyeC83.png",
@@ -23,10 +22,10 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "3.3 (1)",
-          "date": "2026-08-12T23:20:00-07:00",
+          "version": "3.3 (2)",
+          "date": "2026-08-17T00:00:00-07:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/nxtcoreee3/Bad-Poster/releases/download/v3.3.1/Bad-Poster.ipa",
+          "downloadURL": "https://github.com/nxtcoreee3/Bad-Poster/releases/download/v3.3.2/Bad-Poster.ipa",
           "size": 13200000,
           "buildVersion": "",
           "minOSVersion": "26.0"
@@ -39,7 +38,7 @@
       "patreon": {}
     },
     {
-      "name": "Mond",
+      "name": "Mond 2.1",
       "bundleIdentifier": "com.roooot",
       "marketplaceID": "",
       "developerName": "rooootdev",
@@ -51,10 +50,10 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "1.0",
-          "date": "2026-08-14T23:20:00-07:00",
+          "version": "2.1",
+          "date": "2026-08-16T23:20:00-07:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/rooootdev/mond/releases/download/development/mond.ipa",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/2.1/mond.ipa",
           "size": 3200000,
           "buildVersion": "",
           "minOSVersion": "27.0"
