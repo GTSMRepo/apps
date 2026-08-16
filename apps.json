@@ -10,6 +10,34 @@
   "headerURL": "https://i.imgur.com/vA2i2Hc.png",
   "apps": [
     {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "marketplaceID": "",
+      "developerName": "YangJiiii",
+      "subtitle": "iOS 27 Tweaking app",
+      "localizedDescription": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.\n",
+      "iconURL": "https://github.com/YangJiiii/3105/blob/main/docs/images/app-icon.png?raw=true",
+      "tintColor": "#41c5db",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.1/3105-v1.0.1-build5-MobileHouseArrest-unsigned.ipa",
+          "size": 4000000,
+          "version": "1.0.1",
+          "buildVersion": "Build 5",
+          "date": "2026-08-14T12:09:00-07:00",
+          "localizedDescription": null,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Bad Poster",
       "bundleIdentifier": "com.nxtcoreee3.Bad-Poster",
       "marketplaceID": "",
@@ -23,7 +51,7 @@
       "versions": [
         {
           "version": "3.3 (2)",
-          "date": "2026-08-17T00:00:00-07:00",
+          "date": "2026-08-16T07:00:00-07:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/nxtcoreee3/Bad-Poster/releases/download/v3.3.2/Bad-Poster.ipa",
           "size": 13200000,
