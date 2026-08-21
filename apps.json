@@ -22,13 +22,13 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.0.1/3105-v1.0.1-build5-MobileHouseArrest-unsigned.ipa",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
           "size": 4000000,
-          "version": "1.0.1",
+          "version": "1.1.1",
           "buildVersion": "Build 5",
-          "date": "2026-08-14T12:09:00-07:00",
+          "date": "2026-08-21T12:09:00-07:00",
           "localizedDescription": null,
-          "minOSVersion": "27.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
