@@ -14,7 +14,7 @@
       "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
       "marketplaceID": "",
       "developerName": "YangJiiii",
-      "subtitle": "iOS 27 Tweaking + Cache Cleaner",
+      "subtitle": "iOS 17-27 Tweaking + Cache Cleaner",
       "localizedDescription": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.\n",
       "iconURL": "https://github.com/YangJiiii/3105/blob/main/docs/images/app-icon.png?raw=true",
       "tintColor": "#41c5db",
@@ -22,11 +22,11 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v1.1.1/3105-unsigned.ipa",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/3105-2.0-beta3-unsigned.ipa",
           "size": 4000000,
-          "version": "1.1.1",
-          "buildVersion": "Build 5",
-          "date": "2026-08-21T12:09:00-07:00",
+          "version": "2.0",
+          "buildVersion": "Build 7",
+          "date": "2026-08-30T12:09:00-07:00",
           "localizedDescription": null,
           "minOSVersion": "17.0"
         }
