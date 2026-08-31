@@ -106,13 +106,13 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "21.32.4",
-          "date": "2026-08-10T20:20:00-07:00",
+          "version": "21.33.6",
+          "date": "2026-08-28T20:20:00-07:00",
           "localizedDescription": "Full credit to the original developer on github➡️ https://github.com/lowiqentity/APEX/releases",
-          "downloadURL": "https://files.catbox.moe/hkk4xy.ipa",
+          "downloadURL": "https://files.catbox.moe/5bf4vq.ipa",
           "size": 131900000,
           "buildVersion": null,
-          "minOSVersion": "16.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
