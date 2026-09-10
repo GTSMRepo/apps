@@ -132,7 +132,7 @@
       "patreon": {}
     },
     {
-      "name": "Delta",
+      "name": "Delta (Read description)",
       "bundleIdentifier": "com.gloop.deltamobile",
       "marketplaceID": "",
       "developerName": "DeltaExploits.gg",
@@ -157,13 +157,13 @@
       ],
       "versions": [
         {
-          "version": "2.735.1135",
-          "date": "2026-08-24T02:20:00-07:00",
+          "version": "2.737.1581",
+          "date": "2026-09-03T02:20:00-07:00",
           "localizedDescription": "The undetected Roblox Delta Executor",
-          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Delta-2.735.1135.ipa",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Delta-2.737.1581.ipa",
           "size": 138700000,
-          "buildVersion": "Latest",
-          "minOSVersion": "14.0"
+          "buildVersion": "2.737.1581",
+          "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {
