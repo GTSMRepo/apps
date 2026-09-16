@@ -72,7 +72,7 @@
       "developerName": "lunginspector",
       "subtitle": "iOS customization toolbox using the bad_query sandbox escape. Supports iOS 26.0 - iOS 26.6.1 & iOS 27.0db1-db4.",
       "localizedDescription": "Some of the tweaks have the potential to brick your device!\nUse at your own risk.\n\nVersion Support:\n\niOS Version\niOS ≤ 26.x_unsupported\n/iOS 27.0 DEV beta 1–4_supported\n/iOS 27.0 DEV beta 5_unsupported\n/iOS 27.0 PUBLIC beta 1–2_supported\n/iOS 27.0 PUBLIC beta 3_unsupported",
-      "iconURL": "https://github.com/GTSMRepo/apps/blob/f3622efe07784d1445b2136a65f96f39bd8162f4/Screenshot_2026-08-28_at_11.23.35_AM.jpeg",
+      "iconURL": "https://github.com/GTSMRepo/apps/blob/main/Screenshot_2026-08-28_at_11.23.35_AM.jpeg?raw=true",
       "tintColor": "#41c5db",
       "category": "utilities",
       "screenshots": [],
