@@ -78,11 +78,11 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "0.1",
-          "date": "2026-08-25T23:20:00-07:00",
+          "version": "0.2",
+          "date": "2026-09-14T23:20:00-07:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.1/Erosion_v0.1.ipa",
-          "size": 1024,
+          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.2/Erosion_v0.2.ipa",
+          "size": 5,160,000,
           "buildVersion": "",
           "minOSVersion": "26.0"
         }
