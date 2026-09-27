@@ -132,58 +132,6 @@
       "patreon": {}
     },
     {
-      "name": "Delta (Read description)",
-      "bundleIdentifier": "com.gloop.deltamobile",
-      "marketplaceID": "",
-      "developerName": "DeltaExploits.gg",
-      "subtitle": "iOS Roblox Executor",
-      "localizedDescription": "If ⚠️Error shows up when signing your app. Delete your Delta and then reinstall the new one. Your data will ve saved. Use iZen.lol to bypass your keysystem.",
-      "iconURL": "https://i.imgur.com/fqMxWWI.png",
-      "tintColor": "#345cfc",
-      "category": "games",
-      "screenshots": [
-        "https://i.imgur.com/teAqZJs.png",
-        "https://i.imgur.com/e2R5P1L.png",
-        {
-          "imageURL": "https://i.imgur.com/HsQ3lQN.png",
-          "width": 2556,
-          "height": 1179
-        },
-        {
-          "imageURL": "https://i.imgur.com/M5u48UE.png",
-          "width": 2556,
-          "height": 1179
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.737.1581",
-          "date": "2026-09-03T02:20:00-07:00",
-          "localizedDescription": "The undetected Roblox Delta Executor",
-          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Delta-2.737.1581.ipa",
-          "size": 138700000,
-          "buildVersion": "2.737.1581",
-          "minOSVersion": "15.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
-          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
-          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
-          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
-          "NSLocationWhenInUseUsageDescription": "Roblox needs access to your location to improve your user experience",
-          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
-          "NSMotionUsageDescription": "Roblox uses motion data to enhance your experience.",
-          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photos so you can save media.",
-          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your experience."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "guns.lol/bidocc for direct link",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "marketplaceID": "",
