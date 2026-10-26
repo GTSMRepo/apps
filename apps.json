@@ -180,9 +180,9 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "marketplaceID": "",
-      "developerName": "whoeevee",
-      "subtitle": "Premium unlocked",
-      "localizedDescription": "This is an awesome app tweak that unlocks premium and has a working widget as well.\n\nClick on your profile on the top left > Settings and Privacy > EeveeSpotify > Patching > Turn on “Overwrite Configuration” then close and reopen the app.",
+      "developerName": "Mak5er",
+      "subtitle": "Taurus 0.60.5",
+      "localizedDescription": "This is an awesome app tweak that unlocks premium and some other nice features!",
       "iconURL": "https://i.imgur.com/hiYkP7A.png",
       "tintColor": "#1cd464",
       "category": "entertainment",
@@ -194,13 +194,13 @@
       ],
       "versions": [
         {
-          "version": "9.1.74",
+          "version": "9.1.90",
           "date": "2026-08-15T00:20:00-08:00",
-          "localizedDescription": "tuff eeveespotify that unlocks premium and has working widget and everything works. new features + icons",
-          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/EeveeSpotify-6.6.8-9.1.74_Patched.ipa",
+          "localizedDescription": "Taurus. Official website: Taurus.lat",
+          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Taurus-0.60.5.ipa",
           "size": 130500000,
           "buildVersion": "",
-          "minOSVersion": "16.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
