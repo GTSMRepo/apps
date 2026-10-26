@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTSM Repo</title>
+<title>Sssnake Repo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0a0d0e;
-    --panel:#10171a;
-    --panel-raised:#151e21;
-    --hairline:#1e2b2e;
-    --text:#e8f2f3;
-    --muted:#7c9599;
-    --muted-dim:#4d6367;
-    --accent:#41c5db;
-    --accent-dim:#2a828f;
-    --warm:#fcda09;
+    --bg:#000000;
+    --panel:#0a0a0a;
+    --panel-raised:#141414;
+    --hairline:#262626;
+    --text:#ffffff;
+    --muted:#b3b3b3;
+    --muted-dim:#737373;
+    --accent:#ffffff;
+    --accent-dim:#8c8c8c;
+    --warm:#ffffff;
   }
   *{box-sizing:border-box;margin:0;padding:0;}
   html{background:var(--bg);}
@@ -29,7 +29,7 @@
     -webkit-font-smoothing:antialiased;
     min-height:100vh;
   }
-  ::selection{background:var(--accent);color:#04141a;}
+  ::selection{background:var(--accent);color:#000;}
 
   a{color:inherit;text-decoration:none;}
 
@@ -46,11 +46,11 @@
     content:"";
     position:absolute;inset:0;
     background-image:
-      linear-gradient(180deg, rgba(10,13,14,.55) 0%, var(--bg) 92%),
+      linear-gradient(180deg, rgba(0,0,0,.55) 0%, var(--bg) 92%),
       var(--header-img);
     background-size:cover;
     background-position:center 30%;
-    filter:saturate(.7) brightness(.5);
+    filter:grayscale(1) brightness(.55);
     z-index:0;
   }
   .hero::after{
@@ -99,7 +99,7 @@
     width:6px;height:6px;
     border-radius:50%;
     background:var(--accent);
-    box-shadow:0 0 8px var(--accent);
+    box-shadow:0 0 10px rgba(255,255,255,.8);
   }
   h1{
     font-family:'Space Grotesk',sans-serif;
@@ -149,11 +149,11 @@
   .btn:active{transform:translateY(1px);}
   .btn-primary{
     background:var(--accent);
-    color:#04141a;
+    color:#000;
     border-color:var(--accent);
     font-weight:600;
   }
-  .btn-primary:hover{background:#5ad2e5;border-color:#5ad2e5;}
+  .btn-primary:hover{background:#d9d9d9;border-color:#d9d9d9;}
   .btn small{opacity:.65;font-weight:400;}
 
   /* ---------- STATS STRIP ---------- */
@@ -235,8 +235,8 @@
     text-transform:uppercase;
     letter-spacing:.04em;
   }
-  .badge.featured{color:var(--warm);border-color:rgba(252,218,9,.35);}
-  .badge.category{color:var(--accent);border-color:rgba(65,197,219,.35);}
+  .badge.featured{color:var(--warm);border-color:rgba(255,255,255,.4);}
+  .badge.category{color:var(--accent);border-color:rgba(255,255,255,.3);}
 
   .readout{
     font-family:'IBM Plex Mono',monospace;
@@ -296,7 +296,7 @@
       <img class="repo-icon" id="repoIcon" src="" alt="">
       <div class="hero-text">
         <div class="eyebrow">Sideload source · online</div>
-        <h1 id="repoName">Loading repo…</h1>
+        <h1 id="repoName">Sssnake Repo</h1>
         <div class="subtitle" id="repoSubtitle"></div>
         <p class="description" id="repoDescription"></p>
         <div class="add-row" id="addRow"></div>
@@ -355,7 +355,6 @@ function render(data){
     document.getElementById('hero').style.setProperty('--header-img', `url("${data.headerURL}")`);
   }
 
-  // add-to-store buttons
   const addRow = document.getElementById('addRow');
   addRow.innerHTML = `
     <a class="btn" href="${ksignURL(sourceURL)}">Add to KSign</a>
@@ -371,14 +370,12 @@ function render(data){
     setTimeout(()=>{ el.innerHTML = original; }, 1400);
   });
 
-  // footer
   document.getElementById('footerSourceUrl').textContent = sourceURL;
   document.getElementById('footerSourceUrl').href = sourceURL;
   if(data.website){
     document.getElementById('footerWebsite').innerHTML = `<a href="${data.website}" target="_blank" rel="noopener">${data.website.replace(/^https?:\/\//,'')}</a>`;
   }
 
-  // stats strip
   const apps = data.apps || [];
   const totalSize = apps.reduce((sum,a)=>{
     const v = (a.versions||[])[0];
@@ -390,7 +387,6 @@ function render(data){
     <div class="stat"><b>${bytesToSize(totalSize) || '0 B'}</b> total</div>
   `;
 
-  // catalog
   document.getElementById('catalogLabel').textContent = `Catalog — ${apps.length} app${apps.length===1?'':'s'}`;
   const grid = document.getElementById('grid');
 
@@ -438,7 +434,6 @@ function escapeHTML(str){
   }[m]));
 }
 
-// try to load the live apps.json next to this page
 fetch(SOURCE_FILE, {cache:'no-store'})
   .then(r => { if(!r.ok) throw new Error('not ok'); return r.json(); })
   .then(render)
