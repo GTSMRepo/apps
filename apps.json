@@ -1,95 +1,42 @@
 {
-  "name": "GTSM Repo",
-  "subtitle": "Goated Titty Sucking Method Repo",
+  "name": "Sssnake Repo",
+  "subtitle": "Sssup",
   "description": "Repo for good working iPA apps, games and tools. All apps here are not mine but have been tested by me and I would like to share them with whoever wants to download them.",
-  "iconURL": "https://i.imgur.com/6hyeC83.png",
-  "website": "https://guns.lol/lu1be",
-  "patreonURL": "https://patreon.com/GTSM",
-  "tintColor": "#41c5db",
+  "iconURL": "https://i.imgur.com/4k8tRwk.png",
+  "website": "https://guns.lol/bidocc",
+  "patreonURL": "",
+  "tintColor": "#000000",
   "featuredApps": [],
-  "headerURL": "https://i.imgur.com/vA2i2Hc.png",
+  "headerURL": "https://i.imgur.com/H7GWeny.png",
   "apps": [
     {
-      "name": "3105",
-      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "name": "AirCard-iOS",
+      "bundleIdentifier": "com.mak5er.aircard",
       "marketplaceID": "",
-      "developerName": "YangJiiii",
-      "subtitle": "iOS 17-27 Tweaking + Cache Cleaner",
-      "localizedDescription": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.\n",
-      "iconURL": "https://github.com/YangJiiii/3105/blob/main/docs/images/app-icon.png?raw=true",
-      "tintColor": "#41c5db",
-      "category": "utilities",
+      "developerName": "Mak5er",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Apple Wallet card skins and lock screen passcode themes on iOS 27.\n",
+      "iconURL": "https://i.imgur.com/PcLVAT0.png",
+      "tintColor": "#5c24d9",
+      "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/3105-2.0-beta3-unsigned.ipa",
-          "size": 4000000,
-          "version": "2.0",
-          "buildVersion": "Build 7",
-          "date": "2026-08-30T12:09:00-07:00",
-          "localizedDescription": null,
-          "minOSVersion": "17.0"
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa",
+          "size": 4600000,
+          "version": "1.3.2",
+          "buildVersion": "1.3.2",
+          "date": "2026-10-26T09:55:00-07:00",
+          "localizedDescription": "Github Repo:\n\nhttps://github.com/Mak5er/AirCard-iOS/releases",
+          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Bad Poster",
-      "bundleIdentifier": "com.nxtcoreee3.Bad-Poster",
-      "marketplaceID": "",
-      "developerName": "nxtcoreee3",
-      "subtitle": "iOS 27.0 Live Wallpapers",
-      "localizedDescription": "Custom PosterBoard wallpapers for iOS 17+ · bad_query support for iOS 26–27.0b4\n\nBad Poster keeps the original Pocket Poster workflow and adds a Bad Poster identity, persistent wallpaper Favorites, and a multi-provider Explore experience.",
-      "iconURL": "https://github.com/nxtcoreee3/Bad-Poster/blob/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/badposter%20tinted.png?raw=true",
-      "tintColor": "#41c5db",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.3 (2)",
-          "date": "2026-08-16T07:00:00-07:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/nxtcoreee3/Bad-Poster/releases/download/v3.3.2/Bad-Poster.ipa",
-          "size": 13200000,
-          "buildVersion": "",
-          "minOSVersion": "26.0"
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AirCard-iOS advertises an on-device pairing service so this iPhone can pair with itself, and connects to the local lockdown daemon to run the exploit.",
+          "NSPhotoLibraryUsageDescription": "AirCard-iOS needs photo access to apply custom card skins and passcode themes."
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Erosion",
-      "bundleIdentifier": "com.jbdotparty.Erosion",
-      "marketplaceID": "",
-      "developerName": "lunginspector",
-      "subtitle": "iOS customization toolbox using the bad_query sandbox escape. Supports iOS 26.0 - iOS 26.6.1 & iOS 27.0db1-db4.",
-      "localizedDescription": "Some of the tweaks have the potential to brick your device!\nUse at your own risk.\n\nVersion Support:\n\niOS Version\niOS ≤ 26.x_unsupported\n/iOS 27.0 DEV beta 1–4_supported\n/iOS 27.0 DEV beta 5_unsupported\n/iOS 27.0 PUBLIC beta 1–2_supported\n/iOS 27.0 PUBLIC beta 3_unsupported",
-      "iconURL": "https://github.com/GTSMRepo/apps/blob/main/Screenshot_2026-08-28_at_11.23.35_AM.jpeg?raw=true",
-      "tintColor": "#41c5db",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "0.2.1",
-          "date": "2026-09-17T23:20:00-07:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.2.1/Erosion_v0.2.1.ipa",
-          "size": 5160000,
-          "buildVersion": "",
-          "minOSVersion": "26.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
@@ -97,7 +44,7 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "APEX",
+      "developerName": "APEX 0.2.0",
       "subtitle": "BEST Youtube Tweak",
       "localizedDescription": "This is by far the best youtube app tweak for iOS. This one lets you play videos past 1080 unlike Youtube OLED. To access different settings to tinker inside the app go to the “APEX” logo on the bottom right then click the arrow up button next to “Shorts” to open a tweak menu. Once you’ve made your tweaks make sure to click apply. (The app will close to apply the tweaks).",
       "iconURL": "https://i.imgur.com/yRuLse1.png",
@@ -106,12 +53,12 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "21.33.6",
-          "date": "2026-08-28T20:20:00-07:00",
+          "version": "21.39.4",
+          "date": "2026-08-29T03:20:00-07:00",
           "localizedDescription": "Full credit to the original developer on github➡️ https://github.com/lowiqentity/APEX/releases",
-          "downloadURL": "https://files.catbox.moe/5bf4vq.ipa",
-          "size": 131900000,
-          "buildVersion": null,
+          "downloadURL": "https://files.catbox.moe/l92jw1.ipa",
+          "size": 142400000,
+          "buildVersion": "21",
           "minOSVersion": "17.0"
         }
       ],
@@ -132,7 +79,7 @@
       "patreon": {}
     },
     {
-      "name": "guns.lol/bidocc for direct link",
+      "name": "Cuphead Full",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "marketplaceID": "",
       "developerName": "SpanishFreddy",
@@ -166,8 +113,8 @@
       "versions": [
         {
           "version": "1.55",
-          "date": "2026-04-20T23:20:00-07:00",
-          "localizedDescription": "",
+          "date": "2026-04-21T06:20:00-07:00",
+          "localizedDescription": "guns.lol/bidocc",
           "downloadURL": "https://guns.lol/bidocc",
           "size": 2229700000,
           "buildVersion": "1.55",
@@ -265,15 +212,15 @@
   ],
   "news": [
     {
-      "title": "More about me at guns.lol/lu1be",
+      "title": "Cuphead iPA Full",
       "identifier": "news_91m5rpkxr5",
-      "caption": "guns.lol/lu1be",
+      "caption": "Get it here!",
       "date": "2026-07-20T16:58",
       "tintColor": "#000000",
-      "imageURL": "https://i.imgur.com/UJPWXWm.png",
+      "imageURL": "https://i.imgur.com/ZR44ptn.png",
       "notify": false,
-      "url": "https://example.com/new_feature_details",
-      "appID": null
+      "url": "guns.lol/bidocc",
+      "appID": "com.spanishfreddy.cupheadios"
     }
   ]
 }
