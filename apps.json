@@ -4,7 +4,7 @@
   "description": "Repo for good working iPA apps, games and tools. All apps here are not mine but have been tested by me and I would like to share them with whoever wants to download them.",
   "iconURL": "https://i.imgur.com/4k8tRwk.png",
   "website": "https://guns.lol/bidocc",
-  "patreonURL": "",
+  "patreonURL": "https://www.patreon.com/c/GTSM",
   "tintColor": "#000000",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/H7GWeny.png",
@@ -12,22 +12,22 @@
     {
       "name": "AirCard-iOS",
       "bundleIdentifier": "com.mak5er.aircard",
-      "marketplaceID": "",
+      "marketplaceID": "0",
       "developerName": "Mak5er",
       "subtitle": "An awesome app.",
       "localizedDescription": "Apple Wallet card skins and lock screen passcode themes on iOS 27.\n",
       "iconURL": "https://i.imgur.com/PcLVAT0.png",
       "tintColor": "#5c24d9",
-      "category": "other",
+      "category": "utilities",
       "screenshots": [],
       "versions": [
         {
           "version": "1.3.2",
-          "date": "2026-10-26T09:55:00-07:00",
+          "date": "2026-10-26T16:55:00-07:00",
           "localizedDescription": "Github Repo:\n\nhttps://github.com/Mak5er/AirCard-iOS/releases",
           "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa",
           "size": 4600000,
-          "buildVersion": "1.3.2",
+          "buildVersion": "132",
           "minOSVersion": "18.0"
         }
       ],
@@ -53,8 +53,8 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "21.39.4",
-          "date": "2026-08-29T03:20:00-07:00",
+          "version": "21394",
+          "date": "2026-08-29T10:20:00-07:00",
           "localizedDescription": "Full credit to the original developer on github➡️ https://github.com/lowiqentity/APEX/releases",
           "downloadURL": "https://files.catbox.moe/l92jw1.ipa",
           "size": 142400000,
@@ -113,11 +113,11 @@
       "versions": [
         {
           "version": "1.55",
-          "date": "2026-04-21T06:20:00-07:00",
+          "date": "2026-04-21T13:20:00-07:00",
           "localizedDescription": "guns.lol/bidocc",
           "downloadURL": "https://guns.lol/bidocc",
           "size": 2229700000,
-          "buildVersion": "1.55",
+          "buildVersion": "155",
           "minOSVersion": "18.0"
         }
       ],
@@ -162,11 +162,11 @@
       "versions": [
         {
           "version": "2.208",
-          "date": "2026-01-31T00:20:00-08:00",
+          "date": "2026-01-31T08:20:00-08:00",
           "localizedDescription": "The tuff jumping game full",
           "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Geometry.Dash.2.208.latest.ipa",
           "size": 145300000,
-          "buildVersion": "2.208",
+          "buildVersion": "2208",
           "minOSVersion": "12.0"
         }
       ],
@@ -194,12 +194,12 @@
       ],
       "versions": [
         {
+          "version": "9.1.90",
+          "date": "2026-10-27T00:28:00-07:00",
+          "localizedDescription": "Nice tweaks",
           "downloadURL": "https://github.com/GTSMRepo/apps/releases/download/entertainment/Taurus-0.60.5.ipa",
           "size": 137900000,
-          "version": "9.1.90",
-          "buildVersion": "0.60.5",
-          "date": "2026-10-26T17:28:00-07:00",
-          "localizedDescription": "Nice tweaks",
+          "buildVersion": "9190",
           "minOSVersion": "18.1"
         },
         {
